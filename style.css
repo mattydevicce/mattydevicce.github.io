@@ -1,0 +1,32 @@
+h1 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-bottom: 30px;  
+}
+
+li {
+  border: 1px solid black;
+  list-style: none;
+  text-align: center;
+  margin: 10px;
+  padding: 20px;
+}
+div.container {
+  text-align: center;
+
+}
+
+ul {
+  display:inline-block;
+}
+
+a {
+  font-size: 1.3em;
+}
+
+
+footer {
+  padding-left: 10px;
+}
